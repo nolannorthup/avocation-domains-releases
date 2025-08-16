@@ -1,0 +1,11 @@
+{
+  "version": "v1.3.0",
+  "notes": "Bug fixes and improvements",
+  "pub_date": "2025-08-16T23:46:43Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/nolannorthup/avocation-domains-releases/releases/download/v1.3.0/avocation-domains_1.3.0_x64_en-US.msi.zip"
+    }
+  }
+}
